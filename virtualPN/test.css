@@ -1,0 +1,9 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: linear-gradient(7deg, #8E2FFF calc(50% - 1px), transparent 50%), url("carbon.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-blend-mode: overlay;
+}
+
